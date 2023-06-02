@@ -1,1 +1,0 @@
-print("200,2".isnumeric())
