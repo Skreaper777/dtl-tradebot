@@ -23,4 +23,4 @@
 2. [Симулятор торговли](https://github.com/Skreaper777/dtl-tradebot/blob/master/bot_trading/lib/trading/trading_main.py) ценными бумагами.
 3. [Функционал стратегий](https://github.com/Skreaper777/dtl-tradebot/blob/master/bot_trading/lib/strategies/main_strategies.py) для отслеживания предпочтительного сигнала на сделку с дальнейшей отправкой сигнала в телеграм и в симултятор торговли ценными бумагами.
 4. [Вспомогательные классы](https://github.com/Skreaper777/dtl-tradebot/blob/master/bot_trading/lib/utilities/main_utilities.py)
-5. []()
+5. [Парсер текстового сообщения](https://github.com/Skreaper777/dtl-tradebot/blob/master/bot_telegram/lib/telegram_bot_scripts.py) (предварительно отправляется в чат бот телеграмм), которое в дальнейшем вносится в БД в виде данных "Название ценной бумаги | Дата | Уровень цены для наблюдения 1 | Уровень цены для наблюдения 2 | Уровень цены для наблюдения 3 | Уровень цены для наблюдения 4 | Уровень цены для наблюдения 5.
