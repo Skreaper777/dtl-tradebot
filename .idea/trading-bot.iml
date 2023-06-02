@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/aiogram_from_off_site" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/bothabr" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mahenzon" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/shtosh-weather-bot-main" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/telegram_bot_aiogram3" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/telegram_bot_github" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/telegrambotweather" />
+      <excludeFolder url="file://$MODULE_DIR$/bot_trading/old versions" />
+      <excludeFolder url="file://$MODULE_DIR$/other/study" />
+      <excludeFolder url="file://$MODULE_DIR$/other/other" />
+      <excludeFolder url="file://$MODULE_DIR$/other/args" />
+      <excludeFolder url="file://$MODULE_DIR$/other/youtube" />
+      <excludeFolder url="file://$MODULE_DIR$/other/tinkoff" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/answer_bot3" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/answerbot2" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/anserbot" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/take_msg" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/01_quickstart" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/02_messages" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/03_buttons" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/04_routers" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/05_filters_and_middlewares" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/06_special_updates" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/08_inline_mode" />
+      <excludeFolder url="file://$MODULE_DIR$/other/db/test1" />
+      <excludeFolder url="file://$MODULE_DIR$/other/db/test2" />
+    </content>
+    <content url="file://$MODULE_DIR$/other/db/test3" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
