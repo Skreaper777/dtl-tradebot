@@ -29,6 +29,8 @@
       <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/from_github/08_inline_mode" />
       <excludeFolder url="file://$MODULE_DIR$/other/db/test1" />
       <excludeFolder url="file://$MODULE_DIR$/other/db/test2" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/versions/3/test/test2" />
+      <excludeFolder url="file://$MODULE_DIR$/other/telegram_bots/mastergroosha/versions/dialog" />
     </content>
     <content url="file://$MODULE_DIR$/other/db/test3" />
     <orderEntry type="inheritedJdk" />
